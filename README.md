@@ -33,9 +33,17 @@ Problem → Research → Product Idea → UI/UX → Build with AI → Test → I
 
 I don't use AI just to generate code — I use it as a development tool for planning, research, debugging, iteration, and turning ideas into real products.
 
-## 🚀 Projects
+## 🚀 Featured Project
 
-My best projects are being added here soon. Each project will include its features, screenshots, tech stack, and live/demo links.
+### [Resume AI](https://github.com/theajay17/resume-ai) — Live on Google Play ✅
+
+AI-powered resume builder focused on professional resume creation, ATS scoring, cover letters, and intelligent career assistance.
+
+[![Google Play](https://img.shields.io/badge/View_on-Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.resumeai.resume_ai)
+
+### More products in progress
+
+Additional apps and product experiments are currently being developed and will be added as they reach showcase-ready stages.
 
 ## 🤝 Connect With Me
 
