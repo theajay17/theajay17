@@ -1,55 +1,71 @@
-<div align="center">
+<p align="center"><img src="assets/banner.svg" alt="Ajay Kumar Saw — Flutter & Android Developer" width="100%"/></p>
 
-# Hi, I'm Ajay 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajay-kumar-saw-775aa832a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://play.google.com/store/apps/dev?id=4822433550844528613"><img src="https://img.shields.io/badge/Google_Play-AJAY_LABs-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a>
+  <a href="mailto:sawajay303@gmail.com"><img src="https://img.shields.io/badge/Email-sawajay303%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-### Flutter & Android Developer · Building and shipping AI-powered apps
+## 👨‍💻 About me
 
-I take mobile apps from idea to Google Play — product, UI, backend, AI integration, monetization and release.
-**3 apps live on Google Play** under my studio **AJAY LABs**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-kumar-saw-775aa832a)
-[![Google Play](https://img.shields.io/badge/Google_Play-AJAY_LABs-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=4822433550844528613)
-[![Email](https://img.shields.io/badge/Email-sawajay303%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sawajay303@gmail.com)
-
-📍 Vadodara, Gujarat, India · 🎓 B.Tech CSE, Parul University (2022–2026)
-
-</div>
-
----
+- 📱 Flutter & Android developer — I've shipped **6 apps to Google Play** under my studio **AJAY LABs**
+- 🤖 I build AI into products: LLM chat with memory, **real-time AI voice calls**, AI resume writing, astrology chat
+- 🧱 Comfortable across the stack: Firebase, Supabase, Cloud Functions, edge functions, security rules, testing
+- 💰 I handle the business side too — subscriptions (RevenueCat, Play Billing), AdMob, ASO and Play Console releases
+- 🎓 B.Tech CSE, Parul University (2022–2026) · 📍 Vadodara, India
+- 🔎 **Open to Flutter / Android developer roles, internships and freelance projects**
 
 ## 🚀 Live on Google Play
 
-| App | What it is | Built with |
-|---|---|---|
-| **[Mily: your close friend](https://play.google.com/store/apps/details?id=com.chutki.ai)** | AI companion with text chat, real-time **voice calls**, voice notes, memory and mini-games | Flutter · LiveKit (WebRTC) · Gemini Live · Python agent · Supabase Edge Functions · Firebase · RevenueCat |
-| **[Resume Builder (Resume Build)](https://play.google.com/store/apps/details?id=com.resumeai.resume_ai)** | AI resume builder with ATS score checker, cover letters and PDF export | Flutter · Claude & OpenRouter APIs · Firebase Auth/Firestore/Crashlytics · Syncfusion PDF · AdMob |
-| **[Bongo](https://play.google.com/store/apps/details?id=com.bongodating.app)** | Dating & chat app (18+) with nearby discovery, real-time chat and voice/video calls | Flutter · Firebase (Auth, Firestore, Storage, FCM, Remote Config) · ZegoCloud · Supabase · Geolocation |
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/theajay17/mily-ai-companion"><img src="assets/projects/mily-ai-companion.svg" alt="Mily" width="100%"/></a><br/><sub><b>Mily</b> — Your AI close friend — chat, voice calls & memories</sub></td>
+<td width="50%" align="center"><a href="https://github.com/theajay17/resume-ai"><img src="assets/projects/resume-ai.svg" alt="Resume Build" width="100%"/></a><br/><sub><b>Resume Build</b> — AI resume builder with ATS score checker & cover letters</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/theajay17/bongo-dating-app"><img src="assets/projects/bongo-dating-app.svg" alt="Bongo" width="100%"/></a><br/><sub><b>Bongo</b> — Gay dating & chat — private, safe and nearby</sub></td>
+<td width="50%" align="center"><a href="https://github.com/theajay17/arrow-escape"><img src="assets/projects/arrow-escape.svg" alt="Arrow Escape" width="100%"/></a><br/><sub><b>Arrow Escape</b> — Tap puzzle game — clear the board, one arrow at a time</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/theajay17/snow-rush"><img src="assets/projects/snow-rush.svg" alt="Snow Rush" width="100%"/></a><br/><sub><b>Snow Rush</b> — Sled downhill, dodge obstacles, unlock new sleds</sub></td>
+<td width="50%" align="center"><a href="https://github.com/theajay17/slaycut-video-editor"><img src="assets/projects/slaycut-video-editor.svg" alt="SlayCut" width="100%"/></a><br/><sub><b>SlayCut</b> — Video editor & maker for Reels and Shorts</sub></td>
+</tr>
+</table>
 
 ## 🛠️ In development
 
-- **GenStro** — hyperlocal grocery marketplace connecting customers to nearby kirana stores. Riverpod, Firebase Cloud Functions for trusted pricing/inventory/coupons/order transitions, geohash store discovery, Google Maps, App Check. Backend tested against stock races, idempotency and Firestore rule abuse.
-- **VEDA** — Vedic astrology app: Kundli charts, Dasha, Panchang, Kundli matching and an AI chat. Supabase Edge Functions (Deno) + Postgres caching, a Cloudflare Worker for 24-language Indian translation, Firebase Auth. 270+ automated tests.
-- **Arrow Escape** — Flutter puzzle game with procedurally generated, solver-verified levels, Riverpod, Hive, AdMob and RevenueCat.
-- **editPDF** — PDF editor with annotation, signing, OCR (ML Kit) and document scanning. BLoC, go_router, Syncfusion, Firebase.
+<table>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/theajay17/genstro"><img src="assets/projects/genstro.svg" alt="GenStro" width="100%"/></a><br/><sub><b>GenStro</b> — Nearby stores. Delivered. — hyperlocal grocery marketplace</sub></td>
+<td width="50%" align="center"><a href="https://github.com/theajay17/veda-astrology"><img src="assets/projects/veda-astrology.svg" alt="VEDA" width="100%"/></a><br/><sub><b>VEDA</b> — Vedic astrology — Kundli, Dasha, Panchang & AI guidance</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://github.com/theajay17/editpdf"><img src="assets/projects/editpdf.svg" alt="editPDF" width="100%"/></a><br/><sub><b>editPDF</b> — Scan, sign, convert and manage documents</sub></td>
+</tr>
+</table>
 
 ## ⚡ Tech stack
 
-**Mobile:** Flutter, Dart, Android (Kotlin/Gradle), Riverpod, Provider, BLoC, go_router
-**Backend:** Firebase (Auth, Firestore, Storage, Cloud Functions, FCM, Remote Config, Crashlytics, App Check), Supabase (Postgres, Edge Functions), Cloudflare Workers, Node.js, Python
-**AI:** Anthropic Claude, Google Gemini (incl. Gemini Live), Groq / Llama 3, OpenRouter, LiveKit Agents
-**Real-time:** LiveKit (WebRTC), ZegoCloud, real-time chat, push notifications
-**Monetization & release:** RevenueCat, Google Play Billing, AdMob, Play Console releases, ASO
-**Web:** Next.js, React, TypeScript, Tailwind
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq"/>
+  <img src="https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge" alt="LiveKit"/>
+  <img src="https://img.shields.io/badge/RevenueCat-F25A5A?style=for-the-badge" alt="RevenueCat"/>
+  <img src="https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white" alt="AdMob"/>
+  <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
-## 📂 Open repos
-
-- **[chutki-mily-agent](https://github.com/theajay17/chutki-mily-agent)** — the Python voice agent behind Mily's real-time AI calls (LiveKit + Gemini Live, deployed on Railway)
-- **[resume-ai](https://github.com/theajay17/resume-ai)** — product showcase for Resume Build
-
----
-
-<div align="center">
-
-**Open to Flutter / Android developer roles, internships and freelance projects.**
-
-</div>
+<sub>🔒 Project repos are product showcases — source code is private. Happy to walk through architecture and code in an interview.</sub>
