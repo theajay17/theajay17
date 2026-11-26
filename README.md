@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About me
 
-- 📱 Flutter & Android developer — I've shipped **6 apps to Google Play** under my studio **AJAY LABs**
+- 📱 Flutter & Android developer — I've shipped **5 apps to Google Play** under my studio **AJAY LABs**
 - 🤖 I build AI into products: LLM chat with memory, **real-time AI voice calls**, AI resume writing, astrology chat
 - 🧱 Comfortable across the stack: Firebase, Supabase, Cloud Functions, edge functions, security rules, testing
 - 💰 I handle the business side too — subscriptions (RevenueCat, Play Billing), AdMob, ASO and Play Console releases
@@ -28,7 +28,6 @@
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/theajay17/snow-rush"><img src="assets/projects/snow-rush.svg" alt="Snow Rush" width="100%"/></a><br/><sub><b>Snow Rush</b> — Sled downhill, dodge obstacles, unlock new sleds</sub></td>
-<td width="50%" align="center"><a href="https://github.com/theajay17/slaycut-video-editor"><img src="assets/projects/slaycut-video-editor.svg" alt="SlayCut" width="100%"/></a><br/><sub><b>SlayCut</b> — Video editor & maker for Reels and Shorts</sub></td>
 </tr>
 </table>
 
