@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/banner.svg" alt="Ajay Kumar Saw — Flutter & Android Developer" width="100%"/></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajay-kumar-saw-775aa832a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/theajay1701"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://play.google.com/store/apps/dev?id=4822433550844528613"><img src="https://img.shields.io/badge/Google_Play-Wushang_Labs-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a>
   <a href="mailto:sawajay303@gmail.com"><img src="https://img.shields.io/badge/Email-sawajay303%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
