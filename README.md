@@ -23,7 +23,7 @@
 <td width="50%" align="center"><a href="https://github.com/theajay17/resume-ai"><img src="assets/projects/resume-ai.svg" alt="Resume Build" width="100%"/></a><br/><sub><b>Resume Build</b> — AI resume builder with ATS score checker & cover letters</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/theajay17/bongo-dating-app"><img src="assets/projects/bongo-dating-app.svg" alt="Bongo" width="100%"/></a><br/><sub><b>Bongo</b> — Gay dating & chat — private, safe and nearby</sub></td>
+<td width="50%" align="center"><a href="https://github.com/theajay17/bongo-app"><img src="assets/projects/bongo-app.svg" alt="Bongo" width="100%"/></a><br/><sub><b>Bongo</b> — Gay dating & chat — private, safe and nearby</sub></td>
 <td width="50%" align="center"><a href="https://github.com/theajay17/arrow-escape"><img src="assets/projects/arrow-escape.svg" alt="Arrow Escape" width="100%"/></a><br/><sub><b>Arrow Escape</b> — Tap puzzle game — clear the board, one arrow at a time</sub></td>
 </tr>
 <tr>
