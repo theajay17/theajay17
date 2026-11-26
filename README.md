@@ -15,7 +15,7 @@
 - 🎓 B.Tech CSE, Parul University (2022–2026) · 📍 Vadodara, India
 - 🔎 **Open to Flutter / Android developer roles, internships and freelance projects**
 
-## 🚀 Live on Google Play
+## 🚀 On Google Play
 
 <table>
 <tr>
@@ -28,6 +28,7 @@
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/theajay17/snow-rush"><img src="assets/projects/snow-rush.svg" alt="Snow Rush: Sled Adventure" width="100%"/></a><br/><sub><b>Snow Rush: Sled Adventure</b> — 3D downhill sled racing — dodge obstacles, unlock sleds</sub></td>
+<td width="50%" align="center"><a href="https://github.com/theajay17/veda-astrology"><img src="assets/projects/veda-astrology.svg" alt="VEDA" width="100%"/></a><br/><sub><b>VEDA</b> <i>(launching soon)</i> — Vedic astrology — Kundli, Dasha, Panchang & AI guidance</sub></td>
 </tr>
 </table>
 
@@ -36,9 +37,6 @@
 <table>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/theajay17/genstro"><img src="assets/projects/genstro.svg" alt="GenStro" width="100%"/></a><br/><sub><b>GenStro</b> — Nearby stores. Delivered. — hyperlocal grocery marketplace</sub></td>
-<td width="50%" align="center"><a href="https://github.com/theajay17/veda-astrology"><img src="assets/projects/veda-astrology.svg" alt="VEDA" width="100%"/></a><br/><sub><b>VEDA</b> — Vedic astrology — Kundli, Dasha, Panchang & AI guidance</sub></td>
-</tr>
-<tr>
 <td width="50%" align="center"><a href="https://github.com/theajay17/editpdf"><img src="assets/projects/editpdf.svg" alt="editPDF" width="100%"/></a><br/><sub><b>editPDF</b> — Scan, sign, convert and manage documents</sub></td>
 </tr>
 </table>
