@@ -36,8 +36,8 @@
   </g>
   <g filter="url(#sh)"><rect x="84" y="92" width="150" height="150" rx="34" fill="url(#mono)"/></g>
   <text x="159" y="194" text-anchor="middle" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="80" font-weight="800" fill="#fff">SR</text>
-  <text x="84" y="318" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff" letter-spacing="-1">Snow Rush</text>
-  <text x="86" y="358" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="23" fill="#ffffff" fill-opacity=".78">Sled downhill, dodge obstacles, unlock new sleds</text>
+  <text x="84" y="318" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="55" font-weight="800" fill="#ffffff" letter-spacing="-1">Snow Rush: Sled Adventure</text>
+  <text x="86" y="358" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="23" fill="#ffffff" fill-opacity=".78">3D downhill sled racing — dodge obstacles, unlock sleds</text>
   <rect x="86" y="376" width="220" height="4" rx="2" fill="url(#ln)"/>
   <g font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2">
     <rect x="262" y="118" width="251.4" height="36" rx="18" fill="#22c55e" fill-opacity=".16" stroke="#22c55e" stroke-opacity=".7"/>

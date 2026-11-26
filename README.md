@@ -19,15 +19,15 @@
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/theajay17/mily-ai-companion"><img src="assets/projects/mily-ai-companion.svg" alt="Mily" width="100%"/></a><br/><sub><b>Mily</b> — Your AI close friend — chat, voice calls & memories</sub></td>
-<td width="50%" align="center"><a href="https://github.com/theajay17/resume-ai"><img src="assets/projects/resume-ai.svg" alt="Resume Build" width="100%"/></a><br/><sub><b>Resume Build</b> — AI resume builder with ATS score checker & cover letters</sub></td>
+<td width="50%" align="center"><a href="https://github.com/theajay17/mily-ai-companion"><img src="assets/projects/mily-ai-companion.svg" alt="Mily: your close friend" width="100%"/></a><br/><sub><b>Mily: your close friend</b> — AI companion — chat, real-time voice calls & memories</sub></td>
+<td width="50%" align="center"><a href="https://github.com/theajay17/resume-ai"><img src="assets/projects/resume-ai.svg" alt="Resume Builder" width="100%"/></a><br/><sub><b>Resume Builder</b> — AI resume builder with ATS score checker & cover letters</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/theajay17/bongo-app"><img src="assets/projects/bongo-app.svg" alt="Bongo" width="100%"/></a><br/><sub><b>Bongo</b> — Gay dating & chat — private, safe and nearby</sub></td>
-<td width="50%" align="center"><a href="https://github.com/theajay17/arrow-escape"><img src="assets/projects/arrow-escape.svg" alt="Arrow Escape" width="100%"/></a><br/><sub><b>Arrow Escape</b> — Tap puzzle game — clear the board, one arrow at a time</sub></td>
+<td width="50%" align="center"><a href="https://github.com/theajay17/bongo-app"><img src="assets/projects/bongo-app.svg" alt="Bongo: Gay Dating & Chat" width="100%"/></a><br/><sub><b>Bongo: Gay Dating & Chat</b> — Private, safe & nearby — chat, matches and calls (18+)</sub></td>
+<td width="50%" align="center"><a href="https://github.com/theajay17/arrow-escape"><img src="assets/projects/arrow-escape.svg" alt="Arrow Escape: Tap Puzzle" width="100%"/></a><br/><sub><b>Arrow Escape: Tap Puzzle</b> — Clear the board, one arrow at a time</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/theajay17/snow-rush"><img src="assets/projects/snow-rush.svg" alt="Snow Rush" width="100%"/></a><br/><sub><b>Snow Rush</b> — Sled downhill, dodge obstacles, unlock new sleds</sub></td>
+<td width="50%" align="center"><a href="https://github.com/theajay17/snow-rush"><img src="assets/projects/snow-rush.svg" alt="Snow Rush: Sled Adventure" width="100%"/></a><br/><sub><b>Snow Rush: Sled Adventure</b> — 3D downhill sled racing — dodge obstacles, unlock sleds</sub></td>
 </tr>
 </table>
 
